@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\WarehouseInventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B31DE605-73AB-4A8E-B38D-45461D3CEC5F}|WarehouseInventory\\WarehouseInventory.csproj|c:\\users\\iconic\\desktop\\l300 second semester\\programming 2 dcit318\\assignment3\\warehouseinventory\\warehouseinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31DE605-73AB-4A8E-B38D-45461D3CEC5F}|WarehouseInventory\\WarehouseInventory.csproj|solutionrelative:warehouseinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31DE605-73AB-4A8E-B38D-45461D3CEC5F}|WarehouseInventory\\WarehouseInventory.csproj|c:\\users\\iconic\\desktop\\l300 second semester\\programming 2 dcit318\\assignment3\\warehouseinventory\\warehouseinventory\\warehousemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31DE605-73AB-4A8E-B38D-45461D3CEC5F}|WarehouseInventory\\WarehouseInventory.csproj|solutionrelative:warehouseinventory\\warehousemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31DE605-73AB-4A8E-B38D-45461D3CEC5F}|WarehouseInventory\\WarehouseInventory.csproj|c:\\users\\iconic\\desktop\\l300 second semester\\programming 2 dcit318\\assignment3\\warehouseinventory\\warehouseinventory\\groceryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31DE605-73AB-4A8E-B38D-45461D3CEC5F}|WarehouseInventory\\WarehouseInventory.csproj|solutionrelative:warehouseinventory\\groceryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31DE605-73AB-4A8E-B38D-45461D3CEC5F}|WarehouseInventory\\WarehouseInventory.csproj|c:\\users\\iconic\\desktop\\l300 second semester\\programming 2 dcit318\\assignment3\\warehouseinventory\\warehouseinventory\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31DE605-73AB-4A8E-B38D-45461D3CEC5F}|WarehouseInventory\\WarehouseInventory.csproj|solutionrelative:warehouseinventory\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31DE605-73AB-4A8E-B38D-45461D3CEC5F}|WarehouseInventory\\WarehouseInventory.csproj|c:\\users\\iconic\\desktop\\l300 second semester\\programming 2 dcit318\\assignment3\\warehouseinventory\\warehouseinventory\\invalidquantityexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31DE605-73AB-4A8E-B38D-45461D3CEC5F}|WarehouseInventory\\WarehouseInventory.csproj|solutionrelative:warehouseinventory\\invalidquantityexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31DE605-73AB-4A8E-B38D-45461D3CEC5F}|WarehouseInventory\\WarehouseInventory.csproj|c:\\users\\iconic\\desktop\\l300 second semester\\programming 2 dcit318\\assignment3\\warehouseinventory\\warehouseinventory\\itemnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31DE605-73AB-4A8E-B38D-45461D3CEC5F}|WarehouseInventory\\WarehouseInventory.csproj|solutionrelative:warehouseinventory\\itemnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31DE605-73AB-4A8E-B38D-45461D3CEC5F}|WarehouseInventory\\WarehouseInventory.csproj|c:\\users\\iconic\\desktop\\l300 second semester\\programming 2 dcit318\\assignment3\\warehouseinventory\\warehouseinventory\\duplicateitemexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31DE605-73AB-4A8E-B38D-45461D3CEC5F}|WarehouseInventory\\WarehouseInventory.csproj|solutionrelative:warehouseinventory\\duplicateitemexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31DE605-73AB-4A8E-B38D-45461D3CEC5F}|WarehouseInventory\\WarehouseInventory.csproj|c:\\users\\iconic\\desktop\\l300 second semester\\programming 2 dcit318\\assignment3\\warehouseinventory\\warehouseinventory\\electronicitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31DE605-73AB-4A8E-B38D-45461D3CEC5F}|WarehouseInventory\\WarehouseInventory.csproj|solutionrelative:warehouseinventory\\electronicitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31DE605-73AB-4A8E-B38D-45461D3CEC5F}|WarehouseInventory\\WarehouseInventory.csproj|c:\\users\\iconic\\desktop\\l300 second semester\\programming 2 dcit318\\assignment3\\warehouseinventory\\warehouseinventory\\iinventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31DE605-73AB-4A8E-B38D-45461D3CEC5F}|WarehouseInventory\\WarehouseInventory.csproj|solutionrelative:warehouseinventory\\iinventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WareHouseManager.cs",
+              "DocumentMoniker": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\WarehouseInventory\\WarehouseInventory\\WareHouseManager.cs",
+              "RelativeDocumentMoniker": "WarehouseInventory\\WareHouseManager.cs",
+              "ToolTip": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\WarehouseInventory\\WarehouseInventory\\WareHouseManager.cs",
+              "RelativeToolTip": "WarehouseInventory\\WareHouseManager.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:23:02.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\WarehouseInventory\\WarehouseInventory\\InventoryRepository.cs",
+              "RelativeDocumentMoniker": "WarehouseInventory\\InventoryRepository.cs",
+              "ToolTip": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\WarehouseInventory\\WarehouseInventory\\InventoryRepository.cs",
+              "RelativeToolTip": "WarehouseInventory\\InventoryRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:22:36.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvalidQuantityException.cs",
+              "DocumentMoniker": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\WarehouseInventory\\WarehouseInventory\\InvalidQuantityException.cs",
+              "RelativeDocumentMoniker": "WarehouseInventory\\InvalidQuantityException.cs",
+              "ToolTip": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\WarehouseInventory\\WarehouseInventory\\InvalidQuantityException.cs",
+              "RelativeToolTip": "WarehouseInventory\\InvalidQuantityException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:21:59.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\WarehouseInventory\\WarehouseInventory\\ItemNotFoundException.cs",
+              "RelativeDocumentMoniker": "WarehouseInventory\\ItemNotFoundException.cs",
+              "ToolTip": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\WarehouseInventory\\WarehouseInventory\\ItemNotFoundException.cs",
+              "RelativeToolTip": "WarehouseInventory\\ItemNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:21:20.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GroceryItem.cs",
+              "DocumentMoniker": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\WarehouseInventory\\WarehouseInventory\\GroceryItem.cs",
+              "RelativeDocumentMoniker": "WarehouseInventory\\GroceryItem.cs",
+              "ToolTip": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\WarehouseInventory\\WarehouseInventory\\GroceryItem.cs",
+              "RelativeToolTip": "WarehouseInventory\\GroceryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:20:07.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\WarehouseInventory\\WarehouseInventory\\Program.cs",
+              "RelativeDocumentMoniker": "WarehouseInventory\\Program.cs",
+              "ToolTip": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\WarehouseInventory\\WarehouseInventory\\Program.cs",
+              "RelativeToolTip": "WarehouseInventory\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:18:48.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DuplicateItemException.cs",
+              "DocumentMoniker": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\WarehouseInventory\\WarehouseInventory\\DuplicateItemException.cs",
+              "RelativeDocumentMoniker": "WarehouseInventory\\DuplicateItemException.cs",
+              "ToolTip": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\WarehouseInventory\\WarehouseInventory\\DuplicateItemException.cs",
+              "RelativeToolTip": "WarehouseInventory\\DuplicateItemException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:20:38.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ElectronicItem.cs",
+              "DocumentMoniker": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\WarehouseInventory\\WarehouseInventory\\ElectronicItem.cs",
+              "RelativeDocumentMoniker": "WarehouseInventory\\ElectronicItem.cs",
+              "ToolTip": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\WarehouseInventory\\WarehouseInventory\\ElectronicItem.cs",
+              "RelativeToolTip": "WarehouseInventory\\ElectronicItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:19:39.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IInventoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\WarehouseInventory\\WarehouseInventory\\IInventoryItem.cs",
+              "RelativeDocumentMoniker": "WarehouseInventory\\IInventoryItem.cs",
+              "ToolTip": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\WarehouseInventory\\WarehouseInventory\\IInventoryItem.cs",
+              "RelativeToolTip": "WarehouseInventory\\IInventoryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:19:12.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
