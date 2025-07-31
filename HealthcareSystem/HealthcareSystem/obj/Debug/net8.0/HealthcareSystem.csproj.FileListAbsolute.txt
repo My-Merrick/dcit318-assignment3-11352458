@@ -1,0 +1,14 @@
+C:\Users\ICONIC\Desktop\L300 SECOND SEMESTER\Programming 2 DCIT318\ASSIGNMENT3\HealthcareSystem\HealthcareSystem\bin\Debug\net8.0\HealthcareSystem.exe
+C:\Users\ICONIC\Desktop\L300 SECOND SEMESTER\Programming 2 DCIT318\ASSIGNMENT3\HealthcareSystem\HealthcareSystem\bin\Debug\net8.0\HealthcareSystem.deps.json
+C:\Users\ICONIC\Desktop\L300 SECOND SEMESTER\Programming 2 DCIT318\ASSIGNMENT3\HealthcareSystem\HealthcareSystem\bin\Debug\net8.0\HealthcareSystem.runtimeconfig.json
+C:\Users\ICONIC\Desktop\L300 SECOND SEMESTER\Programming 2 DCIT318\ASSIGNMENT3\HealthcareSystem\HealthcareSystem\bin\Debug\net8.0\HealthcareSystem.dll
+C:\Users\ICONIC\Desktop\L300 SECOND SEMESTER\Programming 2 DCIT318\ASSIGNMENT3\HealthcareSystem\HealthcareSystem\bin\Debug\net8.0\HealthcareSystem.pdb
+C:\Users\ICONIC\Desktop\L300 SECOND SEMESTER\Programming 2 DCIT318\ASSIGNMENT3\HealthcareSystem\HealthcareSystem\obj\Debug\net8.0\HealthcareSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICONIC\Desktop\L300 SECOND SEMESTER\Programming 2 DCIT318\ASSIGNMENT3\HealthcareSystem\HealthcareSystem\obj\Debug\net8.0\HealthcareSystem.AssemblyInfoInputs.cache
+C:\Users\ICONIC\Desktop\L300 SECOND SEMESTER\Programming 2 DCIT318\ASSIGNMENT3\HealthcareSystem\HealthcareSystem\obj\Debug\net8.0\HealthcareSystem.AssemblyInfo.cs
+C:\Users\ICONIC\Desktop\L300 SECOND SEMESTER\Programming 2 DCIT318\ASSIGNMENT3\HealthcareSystem\HealthcareSystem\obj\Debug\net8.0\HealthcareSystem.csproj.CoreCompileInputs.cache
+C:\Users\ICONIC\Desktop\L300 SECOND SEMESTER\Programming 2 DCIT318\ASSIGNMENT3\HealthcareSystem\HealthcareSystem\obj\Debug\net8.0\HealthcareSystem.dll
+C:\Users\ICONIC\Desktop\L300 SECOND SEMESTER\Programming 2 DCIT318\ASSIGNMENT3\HealthcareSystem\HealthcareSystem\obj\Debug\net8.0\refint\HealthcareSystem.dll
+C:\Users\ICONIC\Desktop\L300 SECOND SEMESTER\Programming 2 DCIT318\ASSIGNMENT3\HealthcareSystem\HealthcareSystem\obj\Debug\net8.0\HealthcareSystem.pdb
+C:\Users\ICONIC\Desktop\L300 SECOND SEMESTER\Programming 2 DCIT318\ASSIGNMENT3\HealthcareSystem\HealthcareSystem\obj\Debug\net8.0\HealthcareSystem.genruntimeconfig.cache
+C:\Users\ICONIC\Desktop\L300 SECOND SEMESTER\Programming 2 DCIT318\ASSIGNMENT3\HealthcareSystem\HealthcareSystem\obj\Debug\net8.0\ref\HealthcareSystem.dll
