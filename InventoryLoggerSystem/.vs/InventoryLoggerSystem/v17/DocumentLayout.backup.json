@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\InventoryLoggerSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2408A53E-ADD5-4B16-BCB3-92335A10D7C1}|InventoryLoggerSystem\\InventoryLoggerSystem.csproj|c:\\users\\iconic\\desktop\\l300 second semester\\programming 2 dcit318\\assignment3\\inventoryloggersystem\\inventoryloggersystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2408A53E-ADD5-4B16-BCB3-92335A10D7C1}|InventoryLoggerSystem\\InventoryLoggerSystem.csproj|solutionrelative:inventoryloggersystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2408A53E-ADD5-4B16-BCB3-92335A10D7C1}|InventoryLoggerSystem\\InventoryLoggerSystem.csproj|c:\\users\\iconic\\desktop\\l300 second semester\\programming 2 dcit318\\assignment3\\inventoryloggersystem\\inventoryloggersystem\\inventorylogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2408A53E-ADD5-4B16-BCB3-92335A10D7C1}|InventoryLoggerSystem\\InventoryLoggerSystem.csproj|solutionrelative:inventoryloggersystem\\inventorylogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2408A53E-ADD5-4B16-BCB3-92335A10D7C1}|InventoryLoggerSystem\\InventoryLoggerSystem.csproj|c:\\users\\iconic\\desktop\\l300 second semester\\programming 2 dcit318\\assignment3\\inventoryloggersystem\\inventoryloggersystem\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2408A53E-ADD5-4B16-BCB3-92335A10D7C1}|InventoryLoggerSystem\\InventoryLoggerSystem.csproj|solutionrelative:inventoryloggersystem\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2408A53E-ADD5-4B16-BCB3-92335A10D7C1}|InventoryLoggerSystem\\InventoryLoggerSystem.csproj|c:\\users\\iconic\\desktop\\l300 second semester\\programming 2 dcit318\\assignment3\\inventoryloggersystem\\inventoryloggersystem\\iinventoryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2408A53E-ADD5-4B16-BCB3-92335A10D7C1}|InventoryLoggerSystem\\InventoryLoggerSystem.csproj|solutionrelative:inventoryloggersystem\\iinventoryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryLogger.cs",
+              "DocumentMoniker": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\InventoryLoggerSystem\\InventoryLoggerSystem\\InventoryLogger.cs",
+              "RelativeDocumentMoniker": "InventoryLoggerSystem\\InventoryLogger.cs",
+              "ToolTip": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\InventoryLoggerSystem\\InventoryLoggerSystem\\InventoryLogger.cs",
+              "RelativeToolTip": "InventoryLoggerSystem\\InventoryLogger.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T11:02:11.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\InventoryLoggerSystem\\InventoryLoggerSystem\\InventoryItem.cs",
+              "RelativeDocumentMoniker": "InventoryLoggerSystem\\InventoryItem.cs",
+              "ToolTip": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\InventoryLoggerSystem\\InventoryLoggerSystem\\InventoryItem.cs",
+              "RelativeToolTip": "InventoryLoggerSystem\\InventoryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T11:01:36.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IInventoryEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\InventoryLoggerSystem\\InventoryLoggerSystem\\IInventoryEntity.cs",
+              "RelativeDocumentMoniker": "InventoryLoggerSystem\\IInventoryEntity.cs",
+              "ToolTip": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\InventoryLoggerSystem\\InventoryLoggerSystem\\IInventoryEntity.cs",
+              "RelativeToolTip": "InventoryLoggerSystem\\IInventoryEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T11:01:06.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\InventoryLoggerSystem\\InventoryLoggerSystem\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryLoggerSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\InventoryLoggerSystem\\InventoryLoggerSystem\\Program.cs",
+              "RelativeToolTip": "InventoryLoggerSystem\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T11:00:44.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
