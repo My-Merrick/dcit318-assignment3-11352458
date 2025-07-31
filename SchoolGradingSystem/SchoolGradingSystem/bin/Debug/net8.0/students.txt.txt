@@ -1,0 +1,5 @@
+101, Alice Smith, 84
+102, Bob Johnson, 72
+103, Clara Daniels, 65
+104, David Turner, 49
+105, Eva Brown, 55
