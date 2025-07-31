@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\FinanceManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD3CD5-95D7-4AB8-B93B-2B0A4CEBE739}|FinanceManagementSystem\\FinanceManagementSystem.csproj|c:\\users\\iconic\\desktop\\l300 second semester\\programming 2 dcit318\\assignment3\\financemanagementsystem\\financemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDD3CD5-95D7-4AB8-B93B-2B0A4CEBE739}|FinanceManagementSystem\\FinanceManagementSystem.csproj|solutionrelative:financemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD3CD5-95D7-4AB8-B93B-2B0A4CEBE739}|FinanceManagementSystem\\FinanceManagementSystem.csproj|c:\\users\\iconic\\desktop\\l300 second semester\\programming 2 dcit318\\assignment3\\financemanagementsystem\\financemanagementsystem\\financeapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDD3CD5-95D7-4AB8-B93B-2B0A4CEBE739}|FinanceManagementSystem\\FinanceManagementSystem.csproj|solutionrelative:financemanagementsystem\\financeapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD3CD5-95D7-4AB8-B93B-2B0A4CEBE739}|FinanceManagementSystem\\FinanceManagementSystem.csproj|c:\\users\\iconic\\desktop\\l300 second semester\\programming 2 dcit318\\assignment3\\financemanagementsystem\\financemanagementsystem\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDD3CD5-95D7-4AB8-B93B-2B0A4CEBE739}|FinanceManagementSystem\\FinanceManagementSystem.csproj|solutionrelative:financemanagementsystem\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD3CD5-95D7-4AB8-B93B-2B0A4CEBE739}|FinanceManagementSystem\\FinanceManagementSystem.csproj|c:\\users\\iconic\\desktop\\l300 second semester\\programming 2 dcit318\\assignment3\\financemanagementsystem\\financemanagementsystem\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDD3CD5-95D7-4AB8-B93B-2B0A4CEBE739}|FinanceManagementSystem\\FinanceManagementSystem.csproj|solutionrelative:financemanagementsystem\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD3CD5-95D7-4AB8-B93B-2B0A4CEBE739}|FinanceManagementSystem\\FinanceManagementSystem.csproj|c:\\users\\iconic\\desktop\\l300 second semester\\programming 2 dcit318\\assignment3\\financemanagementsystem\\financemanagementsystem\\cryptowalletprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDD3CD5-95D7-4AB8-B93B-2B0A4CEBE739}|FinanceManagementSystem\\FinanceManagementSystem.csproj|solutionrelative:financemanagementsystem\\cryptowalletprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD3CD5-95D7-4AB8-B93B-2B0A4CEBE739}|FinanceManagementSystem\\FinanceManagementSystem.csproj|c:\\users\\iconic\\desktop\\l300 second semester\\programming 2 dcit318\\assignment3\\financemanagementsystem\\financemanagementsystem\\mobilemoneyprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDD3CD5-95D7-4AB8-B93B-2B0A4CEBE739}|FinanceManagementSystem\\FinanceManagementSystem.csproj|solutionrelative:financemanagementsystem\\mobilemoneyprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD3CD5-95D7-4AB8-B93B-2B0A4CEBE739}|FinanceManagementSystem\\FinanceManagementSystem.csproj|c:\\users\\iconic\\desktop\\l300 second semester\\programming 2 dcit318\\assignment3\\financemanagementsystem\\financemanagementsystem\\banktransferprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDD3CD5-95D7-4AB8-B93B-2B0A4CEBE739}|FinanceManagementSystem\\FinanceManagementSystem.csproj|solutionrelative:financemanagementsystem\\banktransferprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD3CD5-95D7-4AB8-B93B-2B0A4CEBE739}|FinanceManagementSystem\\FinanceManagementSystem.csproj|c:\\users\\iconic\\desktop\\l300 second semester\\programming 2 dcit318\\assignment3\\financemanagementsystem\\financemanagementsystem\\itransactionprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDD3CD5-95D7-4AB8-B93B-2B0A4CEBE739}|FinanceManagementSystem\\FinanceManagementSystem.csproj|solutionrelative:financemanagementsystem\\itransactionprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD3CD5-95D7-4AB8-B93B-2B0A4CEBE739}|FinanceManagementSystem\\FinanceManagementSystem.csproj|c:\\users\\iconic\\desktop\\l300 second semester\\programming 2 dcit318\\assignment3\\financemanagementsystem\\financemanagementsystem\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDD3CD5-95D7-4AB8-B93B-2B0A4CEBE739}|FinanceManagementSystem\\FinanceManagementSystem.csproj|solutionrelative:financemanagementsystem\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FinanceApp.cs",
+              "DocumentMoniker": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\FinanceManagementSystem\\FinanceManagementSystem\\FinanceApp.cs",
+              "RelativeDocumentMoniker": "FinanceManagementSystem\\FinanceApp.cs",
+              "ToolTip": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\FinanceManagementSystem\\FinanceManagementSystem\\FinanceApp.cs",
+              "RelativeToolTip": "FinanceManagementSystem\\FinanceApp.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:01:22.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\FinanceManagementSystem\\FinanceManagementSystem\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "FinanceManagementSystem\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\FinanceManagementSystem\\FinanceManagementSystem\\SavingsAccount.cs",
+              "RelativeToolTip": "FinanceManagementSystem\\SavingsAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:00:38.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\FinanceManagementSystem\\FinanceManagementSystem\\Account.cs",
+              "RelativeDocumentMoniker": "FinanceManagementSystem\\Account.cs",
+              "ToolTip": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\FinanceManagementSystem\\FinanceManagementSystem\\Account.cs",
+              "RelativeToolTip": "FinanceManagementSystem\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:00:02.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CryptoWalletProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\FinanceManagementSystem\\FinanceManagementSystem\\CryptoWalletProcessor.cs",
+              "RelativeDocumentMoniker": "FinanceManagementSystem\\CryptoWalletProcessor.cs",
+              "ToolTip": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\FinanceManagementSystem\\FinanceManagementSystem\\CryptoWalletProcessor.cs",
+              "RelativeToolTip": "FinanceManagementSystem\\CryptoWalletProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T09:59:29.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MobileMoneyProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\FinanceManagementSystem\\FinanceManagementSystem\\MobileMoneyProcessor.cs",
+              "RelativeDocumentMoniker": "FinanceManagementSystem\\MobileMoneyProcessor.cs",
+              "ToolTip": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\FinanceManagementSystem\\FinanceManagementSystem\\MobileMoneyProcessor.cs",
+              "RelativeToolTip": "FinanceManagementSystem\\MobileMoneyProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T09:58:34.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\FinanceManagementSystem\\FinanceManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "FinanceManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\FinanceManagementSystem\\FinanceManagementSystem\\Program.cs",
+              "RelativeToolTip": "FinanceManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T09:54:28.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BankTransferProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\FinanceManagementSystem\\FinanceManagementSystem\\BankTransferProcessor.cs",
+              "RelativeDocumentMoniker": "FinanceManagementSystem\\BankTransferProcessor.cs",
+              "ToolTip": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\FinanceManagementSystem\\FinanceManagementSystem\\BankTransferProcessor.cs",
+              "RelativeToolTip": "FinanceManagementSystem\\BankTransferProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T09:57:46.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITransactionProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\FinanceManagementSystem\\FinanceManagementSystem\\ITransactionProcessor.cs",
+              "RelativeDocumentMoniker": "FinanceManagementSystem\\ITransactionProcessor.cs",
+              "ToolTip": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\FinanceManagementSystem\\FinanceManagementSystem\\ITransactionProcessor.cs",
+              "RelativeToolTip": "FinanceManagementSystem\\ITransactionProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T09:56:41.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\FinanceManagementSystem\\FinanceManagementSystem\\Transaction.cs",
+              "RelativeDocumentMoniker": "FinanceManagementSystem\\Transaction.cs",
+              "ToolTip": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT3\\FinanceManagementSystem\\FinanceManagementSystem\\Transaction.cs",
+              "RelativeToolTip": "FinanceManagementSystem\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T09:55:20.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
